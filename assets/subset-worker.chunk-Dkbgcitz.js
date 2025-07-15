@@ -1,0 +1,5 @@
+<<<<<<<< HEAD:assets/subset-worker.chunk-XYHwoul4.js
+import{Commands as t,subsetToBinary as e}from"./subset-shared.chunk-C0ut3348.js";import"./percentages-BXMCSKIN-wLVD-REX.js";import"./index-B3AiuBTR.js";var i=import.meta.url?new URL(import.meta.url):void 0;typeof window>"u"&&typeof self<"u"&&(self.onmessage=async a=>{switch(a.data.command){case t.Subset:let s=await e(a.data.arrayBuffer,a.data.codePoints);self.postMessage(s,{transfer:[s]});break}});export{i as WorkerUrl};
+========
+import{Commands as t,subsetToBinary as e}from"./subset-shared.chunk-DHcdtjZ8.js";import"./percentages-BXMCSKIN-Dk3TRv0e.js";import"./index-DbpPTgAB.js";var i=import.meta.url?new URL(import.meta.url):void 0;typeof window>"u"&&typeof self<"u"&&(self.onmessage=async a=>{switch(a.data.command){case t.Subset:let s=await e(a.data.arrayBuffer,a.data.codePoints);self.postMessage(s,{transfer:[s]});break}});export{i as WorkerUrl};
+>>>>>>>> parent of 5df959c (sdhdhhsd):assets/subset-worker.chunk-Dkbgcitz.js
